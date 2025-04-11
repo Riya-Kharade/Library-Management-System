@@ -80,7 +80,7 @@ The system will store all book records in a text file, making it simple to maint
 All actions are performed through the terminal, and data is stored locally in the project's directory.
 <hr>
 📩 <b>Contact Information</b>
-If you have any questions or feedback, feel free to reach out via the Contact Us page or connect with me through GitHub.
+If you have any questions or feedback, feel free to reach out via the Email or connect with me through GitHub.
 
 📧 Email: riyasunilkharade.vit@gmail.com
 
