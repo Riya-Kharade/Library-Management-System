@@ -41,52 +41,47 @@ Prerequisites:
 1. A Linux-based operating system (e.g., Ubuntu, CentOS, etc.).<br>
 2. Bash (The system uses Bash scripting).
 
-A terminal (command line interface).
-📩 <b>Contact Information</b>
-If you have any questions or feedback, feel free to reach out via the Contact Us page or connect with me through GitHub.
+A terminal (command line interface).<br>
 
 Steps:
-Clone the Repository:
+1. Clone the Repository:
 If you haven't already, start by cloning the repository to your local machine:
 git clone https://github.com/yourusername/library-management-system.git
 
-Navigate to the Project Directory:
+2. Navigate to the Project Directory:
 Change to the project directory:
 cd library-management-system
 
-
-
-Make the Script Executable:
+3. Make the Script Executable:
 You’ll need to give execution permissions to the script files. Run:
 chmod +x library_management_system.sh
 
-
-Run the Script:
+4. Run the Script:
 Now, you can run the script to start the Library Management System:
 ./library_management_system.sh
 
-Interacting with the System:
+5. Interacting with the System:
 Once the system is running, follow the on-screen instructions to:
-
-Insert a book
-
-Update a book
-
-Delete a book
-
-Search for a book
-
-Issue a book
-
-Display all books
-
-Sort books alphabetically
+<ul>
+  <li>Insert a book</li>
+  <li>Update a book</li>
+  <li>Delete a book</li>
+  <li>Search for a book</li>
+  <li>Issue a book</li>
+  <li>Display all books</li>
+  <li>Sort books alphabetically</li>
+</ul>
 
 
-Notes:
+<hr>
+<b>Notes:</b>
 The system will store all book records in a text file, making it simple to maintain and transfer.
 
 All actions are performed through the terminal, and data is stored locally in the project's directory.
+<hr>
+📩 <b>Contact Information</b>
+If you have any questions or feedback, feel free to reach out via the Contact Us page or connect with me through GitHub.
+
 📧 Email: riyasunilkharade.vit@gmail.com
 
 🔗 GitHub: https://github.com/riya-kharade
