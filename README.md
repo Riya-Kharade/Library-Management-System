@@ -46,7 +46,7 @@ A terminal (command line interface).<br>
 Steps:
 1. Clone the Repository:
 If you haven't already, start by cloning the repository to your local machine:
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/riya-kharade/library-management-system.git
 
 2. Navigate to the Project Directory:
 Change to the project directory:
