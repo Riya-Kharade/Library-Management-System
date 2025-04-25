@@ -85,16 +85,16 @@ This system helps:
 ### 🚀 Steps to Run
 ```bash
 # 1. Clone the Repository
-git clone https://github.com/riya-kharade/library-management-system.git
+git clone https://github.com/riya-kharade/Library-Management-System.git
 
 # 2. Go to Project Directory
-cd library-management-system
+cd Library-Management-System
 
 # 3. Make Script Executable
-chmod +x library_management_system.sh
+chmod +x Library-Management-System.sh
 
 # 4. Run the Script
-./library_management_system.sh
+./Library-Management-System.sh
 ```
 
 ### 🧭 Interaction Flow
@@ -133,11 +133,3 @@ If you have suggestions or questions, feel free to reach out:
 - 🔗 GitHub: [riya-kharade](https://github.com/riya-kharade)
 
 ---
-
-Let me know if you'd like a **badge section** or **GIF demo**, I can help you add that too! Want me to convert this into a `.md` file directly?
-📩 <b>Contact Information</b>
-If you have any questions or feedback, feel free to reach out via the Email or connect with me through GitHub.
-
-📧 Email: riyasunilkharade.vit@gmail.com
-
-🔗 GitHub: https://github.com/riya-kharade
