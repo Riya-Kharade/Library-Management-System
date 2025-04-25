@@ -1,5 +1,5 @@
 # 📚Library-Management-System
-<hr><br>
+<hr>
 A simple and interactive Library Management System built using **Bash scripting**. This system is designed to automate the management of a library’s book collection, supporting both **Admin** and **Student** logins, making it easy to manage books, track users, and maintain records — all through the Linux terminal.
 
 ---
