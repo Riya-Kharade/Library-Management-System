@@ -1,11 +1,7 @@
 # 📚Library-Management-System
 <hr>
 
-Here’s a **powerful and well-organized README** that combines both your Bash script files (`library.sh` and `library_management_system.sh`) into one unified and professional format. I’ve added **sections** for clarity, **highlighted all features** (including admin and student login), and kept your tone and purpose intact:
-
----
-
-
+Here’s a **powerful and well-organized README** that combines both your Bash script files (`library.sh` and `library_management_system.sh`) into one unified and professional format. I’ve added **sections** for clarity, **highlighted all features** (including admin and student login), and kept your tone and purpose intact:<br>
 A simple and interactive Library Management System built using **Bash scripting**. This system is designed to automate the management of a library’s book collection, supporting both **Admin** and **Student** logins, making it easy to manage books, track users, and maintain records — all through the Linux terminal.
 
 ---
